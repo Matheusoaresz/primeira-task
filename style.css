@@ -1,0 +1,32 @@
+body{
+    font-size: 20px;
+    background-color:#694B75 ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+.me{
+    width: 15%;
+}
+
+.info{
+    background-color: #C453F5 ;
+    color: white;
+    font-size: 30px;
+}
+
+.curio{
+    background-color: #9B42C2;
+    color: white;
+    font-size: 30px;
+}
+
+.contato{
+    background-color: #DC9EF7;
+    color: white;
+    font-size: 30px;
+}
